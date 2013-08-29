@@ -1,2 +1,2 @@
-GitTemlate
+GitTemplate
 ==========
